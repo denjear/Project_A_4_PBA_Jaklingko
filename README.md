@@ -1,4 +1,4 @@
-# 🧠 Sentiment Analysis of Online News about Jak Lingko using NLP Techniques
+# 🧠 Analisis Sentimen Artikel Berita Layanan Transportasi JakLingko
 
 ## 📘 Overview  
 Jak Lingko merupakan sistem integrasi transportasi publik di Jakarta yang dirancang untuk menyatukan berbagai moda transportasi dalam satu platform, baik dari sisi pembayaran maupun rute perjalanan.  
