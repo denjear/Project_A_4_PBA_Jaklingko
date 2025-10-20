@@ -102,8 +102,8 @@ Dataset dikumpulkan melalui teknik **web scraping** dari portal berita daring se
 
 ## 👩‍💻 Author  
 
-**Faiz Musyaffa Ramadhan - 5026221153**
-**Muhammad Irsyad Fahmi - 5026221187**  
+- **Faiz Musyaffa Ramadhan - 5026221153**
+- **Muhammad Irsyad Fahmi - 5026221187**  
 Undergraduate Information Systems  
 📍 Institut Teknologi Sepuluh Nopember Surabaya, 2025  
 
